@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 4d486e0158bc6d04b88c83ceb093bf17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2467396980281257750
+    second: spritesFlappyHead_0
+  - first:
+      213: -167526517398485324
+    second: spritesFlappyHead_1
+  - first:
+      213: 8092612284818794265
+    second: spritesFlappyHead_2
+  - first:
+      213: -3146514745517014267
+    second: spritesFlappyHead_3
+  - first:
+      213: -6372626841130590342
+    second: spritesFlappyHead_4
+  - first:
+      213: -1837638551214347693
+    second: spritesFlappyHead_5
+  - first:
+      213: -6700116434095051793
+    second: spritesFlappyHead_6
+  - first:
+      213: 1242713968191571982
+    second: spritesFlappyHead_7
+  - first:
+      213: -7695571241480086680
+    second: spritesFlappyHead_8
+  - first:
+      213: -8306002226650119707
+    second: spritesFlappyHead_9
+  - first:
+      213: -4807964020288878522
+    second: spritesFlappyHead_10
+  - first:
+      213: -592095097350486880
+    second: spritesFlappyHead_11
+  - first:
+      213: 6414494428466449672
+    second: spritesFlappyHead_12
+  - first:
+      213: 7835228575585265185
+    second: spritesFlappyHead_13
+  - first:
+      213: 3552374613993379516
+    second: spritesFlappyHead_14
+  - first:
+      213: 4726748045455264039
+    second: spritesFlappyHead_15
+  - first:
+      213: 2111302875763155978
+    second: spritesFlappyHead_16
+  - first:
+      213: 5824180994999934383
+    second: spritesFlappyHead_17
+  - first:
+      213: -7658366653966836142
+    second: spritesFlappyHead_18
+  - first:
+      213: 8310941031691406191
+    second: spritesFlappyHead_19
+  - first:
+      213: -3469720159776701759
+    second: spritesFlappyHead_20
+  - first:
+      213: -3068534220859483574
+    second: spritesFlappyHead_21
+  - first:
+      213: 811253747481409782
+    second: spritesFlappyHead_22
+  - first:
+      213: -1969800056322461432
+    second: spritesFlappyHead_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesFlappyHead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0d67ee48b02cdd0800000000000000
+      internalID: -2467396980281257750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 212
+        width: 168
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b641002583dcadf0800000000000000
+      internalID: -167526517398485324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 255
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917269d1ffbbe4070800000000000000
+      internalID: 8092612284818794265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030ee882855554d0800000000000000
+      internalID: -3146514745517014267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f9a40d6a1ef87a0800000000000000
+      internalID: -6372626841130590342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 238
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a2e4159756f76e0800000000000000
+      internalID: -1837638551214347693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 229
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febe1081a976403a0800000000000000
+      internalID: -6700116434095051793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 229
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08897715c10f3110800000000000000
+      internalID: 1242713968191571982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1edf8ab6d33590800000000000000
+      internalID: -7695571241480086680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e18ae06bf62bbc80800000000000000
+      internalID: -8306002226650119707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 211
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64882dd723ea64db0800000000000000
+      internalID: -4807964020288878522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 211
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a48c2165a478c7f0800000000000000
+      internalID: -592095097350486880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 193
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d077e72bcd40950800000000000000
+      internalID: 6414494428466449672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 193
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126efbd60e25cbc60800000000000000
+      internalID: 7835228575585265185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 193
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6d030e3e19c4130800000000000000
+      internalID: 3552374613993379516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 193
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7290220dd48c89140800000000000000
+      internalID: 4726748045455264039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 186
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04af1387cadc4d10800000000000000
+      internalID: 2111302875763155978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 164
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad5d82d1c5a3d050800000000000000
+      internalID: 5824180994999934383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 164
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e1c9e9a1408b590800000000000000
+      internalID: -7658366653966836142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 164
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b4f27c5d4665370800000000000000
+      internalID: 8310941031691406191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 164
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c28f76e5e319dfc0800000000000000
+      internalID: -3469720159776701759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 155
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5a8842606a65d0800000000000000
+      internalID: -3068534220859483574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f875513cf6224b00800000000000000
+      internalID: 811253747481409782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesFlappyHead_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801fa54094dd9a4e0800000000000000
+      internalID: -1969800056322461432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
